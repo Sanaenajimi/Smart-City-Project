@@ -1,0 +1,218 @@
+[
+  {
+    "time": "22:11",
+    "timestamp": "2025-10-18T22:11:44.218480",
+    "aqi": 44,
+    "pm25": 35.2,
+    "confidence": 88,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "23:11",
+    "timestamp": "2025-10-18T23:11:44.218480",
+    "aqi": 47,
+    "pm25": 37.6,
+    "confidence": 86,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "00:11",
+    "timestamp": "2025-10-19T00:11:44.218480",
+    "aqi": 44,
+    "pm25": 35.2,
+    "confidence": 84,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "01:11",
+    "timestamp": "2025-10-19T01:11:44.218480",
+    "aqi": 49,
+    "pm25": 39.2,
+    "confidence": 82,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "02:11",
+    "timestamp": "2025-10-19T02:11:44.218480",
+    "aqi": 40,
+    "pm25": 32.0,
+    "confidence": 80,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "03:11",
+    "timestamp": "2025-10-19T03:11:44.218480",
+    "aqi": 37,
+    "pm25": 29.6,
+    "confidence": 78,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "04:11",
+    "timestamp": "2025-10-19T04:11:44.218480",
+    "aqi": 37,
+    "pm25": 29.6,
+    "confidence": 76,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "05:11",
+    "timestamp": "2025-10-19T05:11:44.218480",
+    "aqi": 39,
+    "pm25": 31.2,
+    "confidence": 74,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "06:11",
+    "timestamp": "2025-10-19T06:11:44.218480",
+    "aqi": 49,
+    "pm25": 39.2,
+    "confidence": 72,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "07:11",
+    "timestamp": "2025-10-19T07:11:44.218480",
+    "aqi": 59,
+    "pm25": 47.2,
+    "confidence": 70,
+    "level": "MODÉRÉ",
+    "level_class": "warning"
+  },
+  {
+    "time": "08:11",
+    "timestamp": "2025-10-19T08:11:44.218480",
+    "aqi": 51,
+    "pm25": 40.8,
+    "confidence": 68,
+    "level": "MODÉRÉ",
+    "level_class": "warning"
+  },
+  {
+    "time": "09:11",
+    "timestamp": "2025-10-19T09:11:44.218480",
+    "aqi": 52,
+    "pm25": 41.6,
+    "confidence": 66,
+    "level": "MODÉRÉ",
+    "level_class": "warning"
+  },
+  {
+    "time": "10:11",
+    "timestamp": "2025-10-19T10:11:44.218480",
+    "aqi": 45,
+    "pm25": 36.0,
+    "confidence": 64,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "11:11",
+    "timestamp": "2025-10-19T11:11:44.218480",
+    "aqi": 46,
+    "pm25": 36.8,
+    "confidence": 62,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "12:11",
+    "timestamp": "2025-10-19T12:11:44.218480",
+    "aqi": 49,
+    "pm25": 39.2,
+    "confidence": 60,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "13:11",
+    "timestamp": "2025-10-19T13:11:44.218480",
+    "aqi": 40,
+    "pm25": 32.0,
+    "confidence": 58,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "14:11",
+    "timestamp": "2025-10-19T14:11:44.218480",
+    "aqi": 48,
+    "pm25": 38.4,
+    "confidence": 56,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "15:11",
+    "timestamp": "2025-10-19T15:11:44.218480",
+    "aqi": 41,
+    "pm25": 32.8,
+    "confidence": 54,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "16:11",
+    "timestamp": "2025-10-19T16:11:44.218480",
+    "aqi": 42,
+    "pm25": 33.6,
+    "confidence": 52,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "17:11",
+    "timestamp": "2025-10-19T17:11:44.218480",
+    "aqi": 51,
+    "pm25": 40.8,
+    "confidence": 50,
+    "level": "MODÉRÉ",
+    "level_class": "warning"
+  },
+  {
+    "time": "18:11",
+    "timestamp": "2025-10-19T18:11:44.218480",
+    "aqi": 57,
+    "pm25": 45.6,
+    "confidence": 50,
+    "level": "MODÉRÉ",
+    "level_class": "warning"
+  },
+  {
+    "time": "19:11",
+    "timestamp": "2025-10-19T19:11:44.218480",
+    "aqi": 50,
+    "pm25": 40.0,
+    "confidence": 50,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "20:11",
+    "timestamp": "2025-10-19T20:11:44.218480",
+    "aqi": 41,
+    "pm25": 32.8,
+    "confidence": 50,
+    "level": "BON",
+    "level_class": "success"
+  },
+  {
+    "time": "21:11",
+    "timestamp": "2025-10-19T21:11:44.218480",
+    "aqi": 41,
+    "pm25": 32.8,
+    "confidence": 50,
+    "level": "BON",
+    "level_class": "success"
+  }
+]
